@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="PacManTopDownShooter/src"/>
+	<classpathentry kind="src" path="PacManTopDownShooter/test"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/dist/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/dist/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/dist/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/dist/lib/slick.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/dist/PMMTDSGame.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/Eseguibile.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/jinput.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/lwjgl.jar"/>
+	<classpathentry kind="lib" path="PacManTopDownShooter/slick.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/TML/workspaceTML/JAVA_PACMAN_SHOOTER_WITH_SOURCE_CODE.zip_expanded/PacManTopDownShooter/Eseguibile.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/TML/workspaceTML/JAVA_PACMAN_SHOOTER_WITH_SOURCE_CODE.zip_expanded/PacManTopDownShooter/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/TML/workspaceTML/JAVA_PACMAN_SHOOTER_WITH_SOURCE_CODE.zip_expanded/PacManTopDownShooter/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/TML/workspaceTML/JAVA_PACMAN_SHOOTER_WITH_SOURCE_CODE.zip_expanded/PacManTopDownShooter/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/TML/workspaceTML/JAVA_PACMAN_SHOOTER_WITH_SOURCE_CODE.zip_expanded/PacManTopDownShooter/slick.jar"/>
+	<classpathentry kind="output" path="PacManTopDownShooter/build/classes"/>
+</classpath>
